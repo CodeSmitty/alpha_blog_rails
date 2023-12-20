@@ -22,3 +22,11 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+- Users - create users table and model
+
+    - add validations
+    * username must be present and unique, min 3 max 25
+    * email address must be present and inique, max 105
+    * emial must be valid email format, check with email regex
