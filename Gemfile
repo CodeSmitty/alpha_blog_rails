@@ -50,7 +50,9 @@ gem "sassc-rails"
 gem 'bootstrap', '~> 4.4.1'
 gem 'jquery-rails'
 
-gem 'byebug'
+
+
+gem 'will_paginate', '~> 4.0'
 
 # Use Sass to process CSS
 # gem "sassc-rails"
